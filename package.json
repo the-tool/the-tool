@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "jquery": "^2.2.2"
+    },
+    "dependencies": {
+        "laravel-elixir": "^5.0.0",
+        "bootstrap-sass": "^3.0.0",
+        "map-stream": "0.0.6",
+        "semantic-ui": "^2.0.8",
+        "yamljs": "^0.2.3"
+    }
+}

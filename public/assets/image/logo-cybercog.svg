@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 180 180" style="enable-background:new 0 0 180 180;" xml:space="preserve">
+    <style type="text/css">
+        .st0{fill:#ccc;}
+    </style>
+    <rect x="80" y="80" class="st0" width="20" height="20"/>
+    <path class="st0" d="M180,100V80h-40V60h20V40h-20V20h-20v20h-20V0H80v40H60V20H40v20H20v20h20v20H0v20h40v20H20v20h20v20h20v-20h20v40h20v-40h20v20h20v-20h20v-20h-20v-20H180z M120,120H60V60h60V120z"/>
+</svg>

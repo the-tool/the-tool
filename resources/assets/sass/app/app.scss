@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(http://fonts.gstatic.com/s/ptsans/v8/fTLR1wW5qq9Ui3F-pB4hXQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/ptsans/v8/yrzXiAvgeQQdopyG8QSg8Q.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url(http://fonts.gstatic.com/s/ptsans/v8/g46X4VH_KHOWAAa-HpnGPvk_vArhqVIZ0nv9q090hN8.woff2) format('woff2'), url(http://fonts.gstatic.com/s/ptsans/v8/g46X4VH_KHOWAAa-HpnGPhsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('PT Sans Italic'), local('PTSans-Italic'), url(http://fonts.gstatic.com/s/ptsans/v8/7dSh6BcuqDLzS2qAASIeultXRa8TVwTICgirnJhmVJw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/ptsans/v8/7dSh6BcuqDLzS2qAASIeuj8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('PT Sans Bold Italic'), local('PTSans-BoldItalic'), url(http://fonts.gstatic.com/s/ptsans/v8/lILlYDvubYemzYzN7GbLkOXREeHhJi4GEUJI9ob_ak4.woff2) format('woff2'), url(http://fonts.gstatic.com/s/ptsans/v8/lILlYDvubYemzYzN7GbLkIraN7vELC11_xip9Rz-hMs.woff) format('woff');
+}
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  /*background-color: #1B1C1D;*/
+}
+
+.ui.container.root {
+  width: 850px;
+  margin-left: 230px !important;
+}
+
+.ui.segment.root {
+  margin-left: 230px;
+  border: 0;
+  box-shadow: none;
+}
+
+/* PAGE META */
+
+.PageMeta__Result {
+  margin-top: 2rem;
+}
+
+.PageMeta__Table {
+  text-align: left;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.PageMeta__Cell,
+.PageMeta__HeadCell {
+  vertical-align: top;
+  padding: 0.5em 1em 0.5em 0;
+  border-top: solid 1px #DDD;
+}
+
+.PageMeta__HeadCell {
+  width: 250px;
+}
+
+.PageMeta__ExtendedData {
+  display: none;
+}
+
+.PageMeta__ButtonExtend {
+  margin: 2em 0;
+  text-align: center;
+}
