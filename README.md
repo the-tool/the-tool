@@ -37,4 +37,4 @@ Please refer to [CONTRIBUTING.md](https://github.com/the-tool/the-tool/blob/mast
 
 ## License
 
-The Tool application is an open-sourced software licensed under the [The MIT License](https://opensource.org/licenses/MIT).
+The Tool application is an open-sourced software licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).

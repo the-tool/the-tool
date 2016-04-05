@@ -6,7 +6,15 @@
         "webmaster",
         "micro-service"
     ],
-    "license": "MIT",
+    "homepage": "http://wmcc.su/",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Anton Komarev",
+            "email": "ell@cybercog.su",
+            "role": "lead"
+        }
+    ],
     "type": "project",
     "require": {
         "php": ">=5.5.9",
