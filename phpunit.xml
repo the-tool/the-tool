@@ -22,6 +22,7 @@
         </whitelist>
     </filter>
     <php>
+        <env name="APP_KEY" value="base64:tYrXcSNIUnGLfQTaY/Rw0I6hMuBBopAIctW2LnW+X1E="/>
         <env name="APP_ENV" value="testing"/>
         <env name="CACHE_DRIVER" value="array"/>
         <env name="SESSION_DRIVER" value="array"/>
