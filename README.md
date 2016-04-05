@@ -5,7 +5,7 @@
 [![Latest Stable Version](https://poser.pugx.org/the-tool/the-tool/version)](https://packagist.org/packages/the-tool/the-tool)
 [![License](https://poser.pugx.org/the-tool/the-tool/license)](https://github.com/the-tool/the-tool/blob/master/LICENSE)
 
-Collection of useful tools for every day purposes.
+The Tool is an independent micro-service tools collection.
 
 [Demo application](http://wmcc.su)
 
