@@ -1,23 +1,34 @@
 {
     "name": "the-tool/the-tool",
     "description": "The Tool is an independent micro-service tools collection.",
+    "type": "project",
+    "license": "MIT",
     "keywords": [
+        "cybercog",
+        "cog",
+        "laravel",
         "tools",
         "webmaster",
         "micro-service"
     ],
-    "homepage": "http://wmcc.su/",
-    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Anton Komarev",
-            "email": "ell@cybercog.su",
-            "role": "lead"
+            "email": "a.komarev@cybercog.su",
+            "homepage": "http://ell.folio.su",
+            "role": "Developer"
         }
     ],
-    "type": "project",
+    "homepage": "http://wmcc.su/",
+    "support": {
+        "email": "oss@cybercog.su",
+        "issues": "https://github.com/the-tool/the-tool/issues",
+        "wiki": "https://github.com/the-tool/the-tool/wiki",
+        "source": "https://github.com/the-tool/the-tool",
+        "docs": "https://github.com/the-tool/the-tool/wiki"
+    },
     "require": {
-        "php": ">=5.5.9",
+        "php": "^5.6|^7.0",
         "laravel/framework": "5.2.*",
         "laravelcollective/html": "~5.0",
         "querypath/QueryPath": ">=3.0.0",
