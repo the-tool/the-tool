@@ -12,26 +12,18 @@
 namespace App\Http\Controllers;
 
 /**
- * Class ClientController.
+ * Class CharacterConverterController.
  * @package App\Http\Controllers
  */
-class ClientController extends Controller
+class CharacterConverterController extends Controller
 {
     /**
-     * HTTP client detection.
+     * Convert to json.
      *
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
      */
     public function index()
     {
-        $ipV4 = $_SERVER['REMOTE_ADDR'];
-        $userAgent = $_SERVER['HTTP_USER_AGENT'];
-
-        return view('client-info.index',
-            [
-                'ip_v4' => $ipV4,
-                'ua' => $userAgent,
-            ]
-        );
+        return view('character-converter.form');
     }
 }

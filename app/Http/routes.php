@@ -9,6 +9,7 @@ Route::any('password', ['as' => 'password', 'uses' => 'PasswordController@index'
 Route::any('url-encode', ['as' => 'url-encode', 'uses' => 'UrlEncodeController@index']);
 Route::any('ip-blacklist', ['as' => 'ip-blacklist', 'uses' => 'IpBlacklistController@index']);
 Route::any('name-generator', ['as' => 'name-generator', 'uses' => 'NameGeneratorController@index']);
+Route::get('json-converter', ['as' => 'json-converter', 'uses' => 'JsonConverterController@index']);
 Route::any('time-converter', ['as' => 'time-converter', 'uses' => 'TimeConverterController@index']);
 Route::any('page-meta', ['as' => 'page-meta', 'uses' => 'PageMetaController@index']);
 Route::get('nginx/config/create', ['as' => 'nginx-config.create', 'uses' => 'NginxConfigController@create']);

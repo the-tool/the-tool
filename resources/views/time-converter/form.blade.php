@@ -1,9 +1,9 @@
 @extends('layout.master')
 
-@section('title', 'Генератор паролей')
+@section('title', 'Конвертер времени')
 
 @section('content')
-<h1>Генератор паролей</h1>
+<h1>Конвертер времени</h1>
 {!! Form::open(['url' => 'time-converter', 'class' => 'ui fluid form']) !!}
 <div class="ui grid">
     <div class="ten wide column">

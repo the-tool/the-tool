@@ -30,7 +30,7 @@ vendor/bin/php-cs-fixer fix
 The phpunit script can be used to invoke the PHPUnit test runner:
 
 ```sh
-phpunit
+vendor/bin/phpunit
 ```
 
 ## Reporting issues
