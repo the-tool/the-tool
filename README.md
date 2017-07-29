@@ -1,6 +1,6 @@
-![the-tool](https://cloud.githubusercontent.com/assets/1849174/24128003/1172c76a-0dea-11e7-9de8-6b401b8be75a.png)
-
 # The Tool
+
+![the-tool](https://cloud.githubusercontent.com/assets/1849174/24128003/1172c76a-0dea-11e7-9de8-6b401b8be75a.png)
 
 [![Gitter chat](https://badges.gitter.im/the-tool/the-tool.svg)](https://gitter.im/the-tool/the-tool)
 [![Build Status](https://travis-ci.org/the-tool/the-tool.svg)](https://travis-ci.org/the-tool/the-tool)
@@ -9,9 +9,9 @@
 
 ## Introduction
 
-The Tool is an independent micro-service tools collection.
+The Tool is an independent micro-service webmaster tools collection.
 
-[Demo application](http://wmcc.su)
+[Demo application](https://tool.cybercog.su)
 
 ## Configuration
 
@@ -41,7 +41,7 @@ Please refer to [CONTRIBUTING.md](https://github.com/the-tool/the-tool/blob/mast
 
 ## Security
 
-If you discover any security related issues, please email oss@cybercog.su instead of using the issue tracker.
+If you discover any security related issues, please email open@cybercog.su instead of using the issue tracker.
 
 ## Credits
 
