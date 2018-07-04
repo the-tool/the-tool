@@ -45,7 +45,7 @@ If you discover any security related issues, please email open@cybercog.su inste
 
 ## Credits
 
-- [Anton Komarev](https://github.com/a-komarev)
+- [Anton Komarev](https://github.com/antonkomarev)
 - [All Contributors](../../contributors)
 
 ## License
