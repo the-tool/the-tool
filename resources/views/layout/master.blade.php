@@ -23,7 +23,7 @@
     <a class="item" href="{{ route('whois') }}">WHOIS</a>
     <div class="item header">
         <img src="/assets/image/logo-cybercog.svg" style="width: 24px;">
-        <a href="http://cybercog.ru/?utm_source=tool.cybercog.su" target="_blank" style="margin-left: 4px;">
+        <a href="https://cybercog.su/?utm_source=tool.cybercog.su" target="_blank" style="margin-left: 4px;">
             CyberCog LLC
         </a>
     </div>
