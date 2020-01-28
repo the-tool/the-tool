@@ -16,7 +16,7 @@
                 [
                     'class' => 'ui input large',
                     'required' => 'required',
-                    'placeholder' => 'http://www.cybercog.ru'
+                    'placeholder' => 'https://cybercog.su'
                 ]
             ) !!}
         </div>
@@ -29,7 +29,7 @@
                 old('domains_secondary'),
                 [
                     'class' => 'ui input large',
-                    'placeholder' => 'cybercog.ru'
+                    'placeholder' => 'cybercog.su'
                 ]
             ) !!}
         </div>
